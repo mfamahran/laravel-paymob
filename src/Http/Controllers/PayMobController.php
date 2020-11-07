@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use mfamahran\PayMob\Facades\PayMob;
+use Mfamahran\PayMob\Facades\PayMob;
 
 class PayMobController extends Controller
 {
