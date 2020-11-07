@@ -1,6 +1,6 @@
 <?php
 
-namespace mfamahran\PayMob;
+namespace Mfamahran\PayMob;
 
 use Illuminate\Support\ServiceProvider;
 
