@@ -33,16 +33,16 @@
     },
     "autoload": {
         "psr-4": {
-            "mfamahran\\PayMob\\": "src/"
+            "Mfamahran\\PayMob\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "mfamahran\\PayMob\\PayMobServiceProvider"
+                "Mfamahran\\PayMob\\PayMobServiceProvider"
             ],
             "aliases": {
-                "PayMob": "mfamahran\\PayMob\\Facades\\PayMob"
+                "PayMob": "Mfamahran\\PayMob\\Facades\\PayMob"
             }
         }
     }
