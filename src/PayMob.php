@@ -8,7 +8,7 @@
  * @license MIT
  */
 
-namespace mfamahran\PayMob;
+namespace Mfamahran\PayMob;
 
 class PayMob
 {
