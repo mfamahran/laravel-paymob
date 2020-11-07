@@ -1,6 +1,6 @@
 <?php
 
-namespace MTGofa\PayMob\Facades;
+namespace mfamahran\PayMob\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
